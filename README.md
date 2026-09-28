@@ -20,26 +20,6 @@ A Call Center Performance Analysis project built using SQL and Power BI to evalu
 - Total Calls Abandoned: 23K
 - Handling Ratio: 98.68%
 
-## Dashboard
-
-### Home
-
-![Home Dashboard](Dashboard/Home.png)
-
-### Overview Analysis
-
-![Overview Analysis](Dashboard/Overview_Analysis.png)
-
-### Agent Analysis
-
-![Agent Analysis](Dashboard/Agent_Analysis.png)
-
-## Power BI Dashboard
-
-View the interactive dashboard:
-
-[Open Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/c069fc2b-1734-4eb0-9f5b-15a6d438d46f/dc2b19b02a3b65a09dba?experience=power-bi&bookmarkGuid=c462fd939bad38649833)
-
 ## Business Insights
 
 - March recorded the highest forecasted call volume at approximately 978K.

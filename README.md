@@ -28,6 +28,25 @@ A Call Center Performance Analysis project built using SQL and Power BI to evalu
 - March had the highest average abandoned calls.
 - Agent-level analysis compares forecasted, offered, and handled calls.
 
+## Power BI Dashboard
+
+### 1. Home Page
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youssefyousri/Salla_Call_Center-Data-Analysis/main/Salla_Project/Dashboard/Home.png" alt="Salla Call Center Dashboard Home Page" width="100%" />
+</p>
+
+### 2. Overview Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youssefyousri/Salla_Call_Center-Data-Analysis/main/Salla_Project/Dashboard/overview_Analysis.png" alt="Call Center Overview Analysis Dashboard" width="100%" />
+</p>
+
+### 3. Agent Analysis
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youssefyousri/Salla_Call_Center-Data-Analysis/main/Salla_Project/Dashboard/Agent_Analysis.png" alt="Call Center Agent Performance Analysis Dashboard" width="100%" />
+</p>
 
 ## Project Structure
 
@@ -44,3 +63,8 @@ Salla_Call_Center_Analysis/
     ├── Home.png
     ├── Overview_Analysis.png
     └── Agent_Analysis.png
+```
+
+## Conclusion
+
+This project demonstrates an end-to-end call center performance analysis workflow using SQL and Power BI, transforming call center data into meaningful business insights and interactive dashboard visualizations.

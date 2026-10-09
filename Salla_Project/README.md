@@ -28,7 +28,10 @@ A Call Center Performance Analysis project built using SQL and Power BI to evalu
 
 ### Overview Analysis
 
-![Overview Analysis](Dashboard/Overview_Analysis.png)
+<h3>Overview Analysis</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youssefyousri/Salla_Call_Center-Data-Analysis/main/Salla_Project/Dashboard/overview_Analysis.png" width="100%" alt="Overview Analysis" />
+</p>
 
 ### Agent Analysis
 
